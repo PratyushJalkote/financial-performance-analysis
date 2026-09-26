@@ -6,7 +6,7 @@ An end-to-end sales and profit analysis of order data using **Excel, SQL, and Po
 
 ---
 
-## Table of Contents
+## Table of Contents 
 
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
