@@ -126,7 +126,7 @@ ORDER BY total_profit ASC;
 
 The Power BI dashboard (`financial performance analysis dashboard.pbix`) includes:
 
-- [KPI cards: total sales, profit, quantity]
+- [KPI cards: $2.33M, $292.30K, 39K]
 - [Sales and profit by region]
 - [Category and sub-category performance]
 - [Top customers and products]
@@ -138,12 +138,12 @@ The Power BI dashboard (`financial performance analysis dashboard.pbix`) include
 
 > Replace the placeholders with real numbers from your analysis.
 
-- **Total sales:** $2.33M | **Total profit:** ₹[value]
-- **Top region by sales:** [region], and by profit: [region]
-- **Most profitable category:** [category]. **Weakest:** [category]
-- **Loss-making products:** [number] products lose money, so pricing and discounts need a review
-- **Best customer segment:** [segment]
-- **Best shipping mode by sales:** [ship mode]
+- **Total sales:** $2.33M | **Total profit:** $292.30K
+- **Top region by sales:** West, and by profit: $0.74M
+- **Most profitable category:** Technology. **Weakest:** Furniture
+- **Loss-making products:** 302 products lose money, so pricing and discounts need a review
+- **Best customer segment:** Consumer Segment
+- **Best shipping mode by sales:** Standard Class shipping mode
 
 ## How to Run
 
