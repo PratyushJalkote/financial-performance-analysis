@@ -51,9 +51,8 @@ The final output is a set of SQL queries plus a Power BI dashboard that a manage
 |---|---|
 | File | `order_cleaned.csv` (also `EXCEL CLEANED FINAL.xlsx`) |
 | Size | ~2.2 MB |
-| Records | [add number of rows] |
-| Period | [add date range] |
-| Source | [add source, e.g. Kaggle Superstore dataset] |
+| Records | 10194  |
+| Period | 03/01/2023 - 30/12/2026 |
 
 **Key columns used in analysis:** `row_id`, `order_id`, `customer_name`, `segment`, `region`, `state`, `category`, `sub_category`, `product_name`, `ship_mode`, `sales`, `quantity`, `discount`, `profit`
 
