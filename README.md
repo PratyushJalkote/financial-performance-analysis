@@ -138,7 +138,7 @@ The Power BI dashboard (`financial performance analysis dashboard.pbix`) include
 
 > Replace the placeholders with real numbers from your analysis.
 
-- **Total sales:** ₹[value] | **Total profit:** ₹[value]
+- **Total sales:** $2.33M | **Total profit:** ₹[value]
 - **Top region by sales:** [region], and by profit: [region]
 - **Most profitable category:** [category]. **Weakest:** [category]
 - **Loss-making products:** [number] products lose money, so pricing and discounts need a review
