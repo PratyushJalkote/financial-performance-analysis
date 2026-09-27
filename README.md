@@ -126,11 +126,10 @@ ORDER BY total_profit ASC;
 
 The Power BI dashboard (`financial performance analysis dashboard.pbix`) includes:
 
-- [KPI cards: $2.33M, $292.30K, 39K]
-- [Sales and profit by region]
-- [Category and sub-category performance]
-- [Top customers and products]
-- [Filters / slicers: add what you used]
+- KPI cards: $2.33M total sales, $292.30K total profit
+- West region has the highest sales
+- Tech category performs best in sales
+- Canon imageCLASS 2200 Advanced Copier is the best-selling product
 
 > Open the `.pbix` file in Power BI Desktop to explore it.
 
@@ -172,4 +171,4 @@ Data Analyst | B.E. in AI & Data Science
 
 - GitHub: [Pratyush Jalkote](https://github.com/PratyushJalkote)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratyushj07/)
-- Email: [pratyushjalkote@gmail.com]
+- Email: pratyushjalkote@gmail.com
