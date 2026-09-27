@@ -56,7 +56,6 @@ The final output is a set of SQL queries plus a Power BI dashboard that a manage
 
 **Key columns used in analysis:** `row_id`, `order_id`, `customer_name`, `segment`, `region`, `state`, `category`, `sub_category`, `product_name`, `ship_mode`, `sales`, `quantity`, `discount`, `profit`
 
-> Add or remove columns to match your file.
 
 ## Tools Used
 
