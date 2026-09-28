@@ -52,7 +52,7 @@ The final output is a set of SQL queries plus a Power BI dashboard that a manage
 | File | `order_cleaned.csv` (also `EXCEL CLEANED FINAL.xlsx`) |
 | Size | ~2.2 MB |
 | Records | 10194  |
-| Period | 03/01/2023 - 30/12/2026 |
+| Period | 03 Jan 2023 - 30 dec 2026 |
 
 **Key columns used in analysis:** `row_id`, `order_id`, `customer_name`, `segment`, `region`, `state`, `category`, `sub_category`, `product_name`, `ship_mode`, `sales`, `quantity`, `discount`, `profit`
 
@@ -60,7 +60,7 @@ The final output is a set of SQL queries plus a Power BI dashboard that a manage
 ## Tools Used
 
 - **Excel**: data cleaning and formatting
-- **SQL** ([MySQL / PostgreSQL]): analysis and business queries
+- **SQL** MySQL : analysis and business queries
 - **Power BI**: interactive dashboard and visuals
 
 ## Project Workflow
@@ -125,10 +125,10 @@ ORDER BY total_profit ASC;
 
 The Power BI dashboard (`financial performance analysis dashboard.pbix`) includes:
 
-- KPI cards: $2.33M total sales, $292.30K total profit
-- West region has the highest sales
-- Tech category performs best in sales
-- Canon imageCLASS 2200 Advanced Copier is the best-selling product
+- KPI cards for total sales ($2.33M) and total profit ($292.30K)
+- Sales and profit by region
+- Sales by category and sub-category
+- Top products by sales
 
 > Open the `.pbix` file in Power BI Desktop to explore it.
 
@@ -137,7 +137,8 @@ The Power BI dashboard (`financial performance analysis dashboard.pbix`) include
 > Replace the placeholders with real numbers from your analysis.
 
 - **Total sales:** $2.33M | **Total profit:** $292.30K
-- **Top region by sales:** West, and by profit: $0.74M
+- **Profit margin:** $292.30K ÷ $2.33M ≈ 12.5%.
+- **Top region by sales:** West, and by profit: $110.79K
 - **Most profitable category:** Technology. **Weakest:** Furniture
 - **Loss-making products:** 302 products lose money, so pricing and discounts need a review
 - **Best customer segment:** Consumer Segment
